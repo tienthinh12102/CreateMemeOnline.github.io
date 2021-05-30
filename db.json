@@ -1,0 +1,82 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "urlImage": "images/person_1.jpg",
+      "name": "Minh Oanh",
+      "role": "Leader",
+      "description": "FA is too out of cure, the girls want to contact him to gain muscle or drink coffee n bamboo shoots. he was enthusiastic his whole heart",
+      "urlFacebook": "https://www.facebook.com/minhoanhpham2402",
+      "urlInstagram": "#",
+      "urlTwiter": "#"
+    },
+    {
+      "id": 2,
+      "urlImage": "images/person_2.jpg",
+      "name": "Tiến Thịnh",
+      "role": "Leader",
+      "description": "A passionate programmer at work, ready to do the hardest work for you, trust him and hand over all your projects to him",
+      "urlFacebook": "https://www.facebook.com/tienthinh12102",
+      "urlInstagram": "#",
+      "urlTwiter": "#"
+    },
+    {
+      "id": 3,
+      "urlImage": "images/person_3.jpg",
+      "name": "Mai Hải",
+      "role": "Leader",
+      "description": "Already have a girlfriend so no one will pay attention to this guy, he pretends to be gay to fool you, foolishness is sticky and the guitarist pro",
+      "urlFacebook": "https://www.facebook.com/Maihai99",
+      "urlInstagram": "#",
+      "urlTwiter": "#"
+    }
+  ],
+  "emailsPost": [
+    {
+      "id": 1,
+      "email": "oanhpham41121@gmail.com"
+    },
+    {
+      "id": 2,
+      "email": "gianggiang@gmail.com"
+    },
+    {
+      "email": "mati@gmail.com",
+      "id": 3
+    },
+    {
+      "email": "congphuong@gmail.com",
+      "id": 4
+    },
+    {
+      "email": "quanghai@gmail.com",
+      "id": 5
+    },
+    {
+      "email": "tienlinh@gmail.com",
+      "id": 6
+    }
+  ],
+  "steps":[
+    {
+      "id":1,
+      "stepContent":"Bước 1: Chọn Ảnh Từ Link URL hoặc Trong Máy"
+    },
+    {
+      "id":2,
+      "stepContent":"Bước 2: Điền chữ dòng trên vào ô Chữ Trên"
+    },
+    {
+      "id":3,
+      "stepContent":"Bước 3: Điền chữ dòng dưới vào ô Chữ Dưới"
+    },
+    {
+      "id":4,
+      "stepContent":"Bước 4: Canh chỉnh độ to nhỏ kiểu chữ"
+    },
+    {
+      "id":5,
+      "stepContent":"Bước 5: Bấm vào nút lưu đển lưu ảnh vào máy"
+    }
+  ]
+}

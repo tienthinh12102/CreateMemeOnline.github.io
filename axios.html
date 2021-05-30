@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Axios</title>
+	<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+</head>
+<body>
+	<ul id = "getJson"></ul>
+	<script type="text/javascript">
+		var url = 'http://localhost:9081/members';
+		axios.get(url).then(function(res){
+			
+			var getData = res.data;
+			var getUl = document.getElementById('getJson');
+			var content = getData.map(function(ele){
+				return '<li>' + ele.name + '</li>';
+			});
+			
+			getUl.innerHTML = content.join('');
+		}).catch(function(err){
+			console.log(err);
+		});
+	</script>	
+</body>
+</html>
